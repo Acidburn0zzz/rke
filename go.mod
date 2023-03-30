@@ -31,13 +31,13 @@ require (
 	github.com/mcuadros/go-version v0.0.0-20180611085657-6d5863ca60fa
 	github.com/morikuni/aec v0.0.0-20170113033406-39771216ff4c // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
-	github.com/opencontainers/runc v0.1.1 // indirect
+	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/norman v0.0.0-20200517050325-f53cae161640
-	github.com/sirupsen/logrus v1.6.0
+	github.com/sirupsen/logrus v1.8.1
 	github.com/smartystreets/assertions v1.0.1 // indirect
 	github.com/stretchr/testify v1.6.1
-	github.com/urfave/cli v1.20.0
+	github.com/urfave/cli v1.22.1
 	go.uber.org/atomic v1.5.0 // indirect
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
