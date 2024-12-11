@@ -39,8 +39,8 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/urfave/cli v1.20.0
 	go.uber.org/atomic v1.5.0 // indirect
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/crypto v0.31.0
+	golang.org/x/sync v0.10.0
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.20.0
 	k8s.io/apimachinery v0.20.0
